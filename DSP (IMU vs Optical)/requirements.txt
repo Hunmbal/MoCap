@@ -1,0 +1,11 @@
+numpy
+numpy-quaternion
+pyserial
+pyyaml
+pyttsx3
+SpeechRecognition
+pyaudio
+mediapipe
+opencv-python
+ahrs
+keyboard

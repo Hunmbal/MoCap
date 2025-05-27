@@ -1,0 +1,160 @@
+chest:
+  min_max:
+    max_ax: 0.0
+    max_ay: 902.344
+    max_az: 0.0
+    max_gx: 0.793
+    max_gy: 0.122
+    max_gz: 2.012
+    max_mx: 7.8
+    max_my: 0.3
+    max_mz: 0.0
+    max_q0: 0.238
+    max_q1: 0.307
+    max_q2: 0.773
+    max_q3: 0.525
+    min_ax: -85.937
+    min_ay: 0.0
+    min_az: -410.4
+    min_gx: -2.012
+    min_gy: -1.585
+    min_gz: -0.183
+    min_mx: 0.0
+    min_my: -2.4
+    min_mz: -16.95
+    min_q0: 0.0
+    min_q1: 0.0
+    min_q2: 0.0
+    min_q3: 0.0
+  pose:
+    pitch: 110.0
+    roll: 46.0
+    yaw: 86.0
+l_elbow:
+  min_max:
+    max_ax: 0.0
+    max_ay: 0.0
+    max_az: 0.0
+    max_gx: 0.0
+    max_gy: 0.0
+    max_gz: 0.0
+    max_mx: 0.0
+    max_my: 0.0
+    max_mz: 0.0
+    max_q0: 0.0
+    max_q1: 0.0
+    max_q2: 0.0
+    max_q3: 0.0
+    min_ax: 0.0
+    min_ay: 0.0
+    min_az: 0.0
+    min_gx: 0.0
+    min_gy: 0.0
+    min_gz: 0.0
+    min_mx: 0.0
+    min_my: 0.0
+    min_mz: 0.0
+    min_q0: 0.0
+    min_q1: 0.0
+    min_q2: 0.0
+    min_q3: 0.0
+  pose:
+    pitch: 0.0
+    roll: 0.0
+    yaw: 0.0
+l_shoulder:
+  min_max:
+    max_ax: 0.0
+    max_ay: 523.437
+    max_az: 896.484
+    max_gx: 4.146
+    max_gy: 1.951
+    max_gz: 1.524
+    max_mx: 13.2
+    max_my: 3.9
+    max_mz: 43.8
+    max_q0: 0.947
+    max_q1: 0.264
+    max_q2: 0.152
+    max_q3: 0.403
+    min_ax: -64.209
+    min_ay: 0.0
+    min_az: 0.0
+    min_gx: -3.232
+    min_gy: -10.915
+    min_gz: -1.524
+    min_mx: 0.0
+    min_my: 0.0
+    min_mz: 0.0
+    min_q0: 0.0
+    min_q1: 0.0
+    min_q2: -0.598
+    min_q3: 0.0
+  pose:
+    pitch: 32.0
+    roll: -59.0
+    yaw: 83.0
+r_elbow:
+  min_max:
+    max_ax: 0.0
+    max_ay: 109.131
+    max_az: 1006.592
+    max_gx: 3.659
+    max_gy: 2.5
+    max_gz: 1.707
+    max_mx: 0.0
+    max_my: 0.0
+    max_mz: 10.05
+    max_q0: 0.98
+    max_q1: 0.092
+    max_q2: 0.074
+    max_q3: 0.0
+    min_ax: -157.471
+    min_ay: 0.0
+    min_az: 0.0
+    min_gx: -4.573
+    min_gy: -2.561
+    min_gz: -1.22
+    min_mx: -13.65
+    min_my: -2.85
+    min_mz: 0.0
+    min_q0: 0.0
+    min_q1: 0.0
+    min_q2: -0.014
+    min_q3: -0.907
+  pose:
+    pitch: 12.0
+    roll: -57.5
+    yaw: 31.0
+r_shoulder:
+  min_max:
+    max_ax: 875.732
+    max_ay: 0.0
+    max_az: 937.988
+    max_gx: 0.305
+    max_gy: 5.427
+    max_gz: 2.805
+    max_mx: 0.0
+    max_my: 0.0
+    max_mz: 43.2
+    max_q0: 0.743
+    max_q1: 0.0
+    max_q2: 0.433
+    max_q3: 0.0
+    min_ax: -22.217
+    min_ay: -630.615
+    min_az: -57.373
+    min_gx: -4.573
+    min_gy: 0.0
+    min_gz: 0.0
+    min_mx: -48.75
+    min_my: -46.05
+    min_mz: -4.5
+    min_q0: 0.0
+    min_q1: -0.618
+    min_q2: -0.412
+    min_q3: -0.646
+  pose:
+    pitch: 58.0
+    roll: -2.0
+    yaw: -67.0
